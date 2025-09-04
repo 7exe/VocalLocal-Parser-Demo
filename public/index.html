@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>VocalLocal</title>
+</head>
+<body>
+  <h1>VocalLocal Parser</h1>
+  
+  <label for="sequence">vocal_key:</label>
+  <input type="text" id="sequence" value="D6:DA17:X3000300041:S300041:TL66:W04R02" />
+  <button id="submit">Play</button>
+
+  <div id="status">Enter a vocal_key and press Submit.</div>
+
+  <script>
+    document.getElementById("submit").addEventListener("click", async () => {
+      const sequence = document.getElementById("sequence").value;
+      
+      try {
+        const res = await fetch('/audio-sequence', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ sequence })
+        });
+        
+        if (!res.ok) throw new Error('Failed to fetch audio sequence');
+        
+        const audio_paths = await res.json();
+        const status_div = document.getElementById('status');
+        status_div.innerText = 'Playing...';
+
+        for (const audio_path of audio_paths) {
+          status_div.innerText = `Playing: ${audio_path}`;
+          await play_audio(`${audio_path.replace(/\\/g, '/')}`);
+        }
+
+        status_div.innerText = 'Finished playing all audio.';
+      } catch (err) {
+        console.error(err);
+        document.getElementById('status').innerText = 'Error loading audio.';
+      }
+    });
+
+    function play_audio(url) {
+      return new Promise((resolve) => {
+        const audio = new Audio(url);
+        audio.onended = resolve;
+        audio.onerror = resolve;
+        audio.play();
+      });
+    }
+  </script>
+</body>
+</html>

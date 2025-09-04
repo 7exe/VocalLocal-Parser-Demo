@@ -1,0 +1,30 @@
+﻿<AudioMappingTable>
+  <Entry key="01" value="TODAY1.wav" />
+  <Entry key="02" value="TONIGHT1.wav" />
+  <Entry key="03" value="OVERNIGHT1.wav" />
+  <Entry key="04" value="SUN.wav" />
+  <Entry key="05" value="Sunday_Night.wav" />
+  <Entry key="06" value="MON.wav" />
+  <Entry key="07" value="Monday_Night.wav" />
+  <Entry key="08" value="TUE.wav" />
+  <Entry key="09" value="Tuesday_Night.wav" />
+  <Entry key="10" value="WED.wav" />
+  <Entry key="11" value="Wednesday_Night.wav" />
+  <Entry key="12" value="THU.wav" />
+  <Entry key="13" value="Thursday_Night.wav" />
+  <Entry key="14" value="FRI.wav" />
+  <Entry key="15" value="Friday_Night.wav" />
+  <Entry key="16" value="SAT.wav" />
+  <Entry key="17" value="Saturday_Night.wav" />
+  <Entry key="18" value="AFTERNOON1.wav" />
+  <Entry key="19" value="New_Years_Day.wav" />
+  <Entry key="20" value="MLK_Day.wav" />
+  <Entry key="21" value="Easter.wav" />
+  <Entry key="22" value="Memorial_Day.wav" />
+  <Entry key="23" value="Independence_Day.wav" />
+  <Entry key="24" value="Labor_Day.wav" />
+  <Entry key="25" value="Thanksgiving_Day.wav" />
+  <Entry key="26" value="Christmas_Eve.wav" />
+  <Entry key="27" value="Christmas_Day.wav" />
+  <Entry key="28" value="New_Years_Eve.wav" />
+</AudioMappingTable>

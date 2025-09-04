@@ -1,0 +1,16 @@
+﻿<AudioMappingTable>
+  <Entry key="01" value="Dim_5.wav" />
+  <Entry key="02" value="Dim_5_10.wav" />
+  <Entry key="03" value="Dim_10_15.wav" />
+  <Entry key="04" value="Dim_10_20.wav" />
+  <Entry key="05" value="Dim_15_25.wav" />
+  <Entry key="06" value="Dim_20_30.wav" />
+  <Entry key="07" value="Dim_25_35.wav" />
+  <Entry key="08" value="Dim_25_40.wav" />
+  <Entry key="09" value="Dim_35_50.wav" />
+  <Entry key="10" value="Dim_40_60.wav" />
+  <Entry key="11" value="Dim_50_70.wav" />
+  <Entry key="12" value="Dim_60_80.wav" />
+  <Entry key="13" value="Dim_70_90.wav" />
+  <Entry key="14" value="Dim_80_100.wav" />
+</AudioMappingTable>

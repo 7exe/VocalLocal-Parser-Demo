@@ -1,0 +1,18 @@
+﻿<AudioMappingTable>
+  <Entry key="01" value="W_NNE.wav" />
+  <Entry key="02" value="W_NE.wav" />
+  <Entry key="03" value="W_ENE.wav" />
+  <Entry key="04" value="W_E.wav" />
+  <Entry key="05" value="W_ESE.wav" />
+  <Entry key="06" value="W_SE.wav" />
+  <Entry key="07" value="W_SSE.wav" />
+  <Entry key="08" value="W_S.wav" />
+  <Entry key="09" value="W_SSW.wav" />
+  <Entry key="10" value="W_SW.wav" />
+  <Entry key="11" value="W_WSW.wav" />
+  <Entry key="12" value="W_W.wav" />
+  <Entry key="13" value="W_WNW.wav" />
+  <Entry key="14" value="W_NW.wav" />
+  <Entry key="15" value="W_NNW.wav" />
+  <Entry key="16" value="W_N.wav" />
+</AudioMappingTable>

@@ -1,0 +1,18 @@
+﻿<AudioMappingTable>
+  <Entry key="01" value="Shift_NNE.wav" />
+  <Entry key="02" value="Shift_NE.wav" />
+  <Entry key="03" value="Shift_ENE.wav" />
+  <Entry key="04" value="Shift_E.wav" />
+  <Entry key="05" value="Shift_ESE.wav" />
+  <Entry key="06" value="Shift_SE.wav" />
+  <Entry key="07" value="Shift_SSE.wav" />
+  <Entry key="08" value="Shift_S.wav" />
+  <Entry key="09" value="Shift_SSW.wav" />
+  <Entry key="10" value="Shift_SW.wav" />
+  <Entry key="11" value="Shift_WSW.wav" />
+  <Entry key="12" value="Shift_W.wav" />
+  <Entry key="13" value="Shift_WNW.wav" />
+  <Entry key="14" value="Shift_NW.wav" />
+  <Entry key="15" value="Shift_NNW.wav" />
+  <Entry key="16" value="Shift_N.wav" />
+</AudioMappingTable>

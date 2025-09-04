@@ -1,0 +1,18 @@
+﻿<AudioMappingTable>
+  <Entry key="01" value="Bec_NNE.wav" />
+  <Entry key="02" value="Bec_NE.wav" />
+  <Entry key="03" value="Bec_ENE.wav" />
+  <Entry key="04" value="Bec_E.wav" />
+  <Entry key="05" value="Bec_ESE.wav" />
+  <Entry key="06" value="Bec_SE.wav" />
+  <Entry key="07" value="Bec_SSE.wav" />
+  <Entry key="08" value="Bec_S.wav" />
+  <Entry key="09" value="Bec_SSW.wav" />
+  <Entry key="10" value="Bec_SW.wav" />
+  <Entry key="11" value="Bec_WSW.wav" />
+  <Entry key="12" value="Bec_W.wav" />
+  <Entry key="13" value="Bec_WNW.wav" />
+  <Entry key="14" value="Bec_NW.wav" />
+  <Entry key="15" value="Bec_NNW.wav" />
+  <Entry key="16" value="Bec_N.wav" />
+</AudioMappingTable>
