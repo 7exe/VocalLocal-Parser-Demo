@@ -1,0 +1,32 @@
+﻿<AudioClipConfig>
+  <Entry primary="DA" secondary="" dir="domestic/vocalLocal/Cantore/Periods2" mapping="Periods2.xml" />
+  <Entry primary="X" secondary="" dir="domestic/vocalLocal/Cantore/Wx_Phrases_Longform" mapping="Wx_Phrases_Longform.xml" />
+  <!--<Entry primary="S" secondary="" dir="domestic/vocalLocal/Cantore/Wx_Phrases_Shortcast" mapping="Wx_Phrases_Shortcast.xml" /> Ignore shortcasts for now -->
+  <Entry primary="Q" secondary="" dir="domestic/vocalLocal/Cantore/Wx_Phrases_Qualifiers" mapping="Wx_Phrases_Qualifiers.xml" />
+  <Entry primary="P" secondary="" dir="domestic/vocalLocal/Cantore/Wx_Phrases_POP" mapping="Wx_Phrases_POP.xml" />
+  <Entry primary="A" secondary="" dir="domestic/vocalLocal/Cantore/Wx_Phrases_Accumulation" mapping="Wx_Phrases_Accumulation.xml" />
+  <Entry primary="R" secondary="" dir="domestic/vocalLocal/Cantore/Wx_Phrases_RateOp" mapping="Wx_Phrases_RateOp.xml" />
+  <Entry primary="TL" secondary="" dir="domestic/vocalLocal/Cantore/Temps_Lows" mapping="Temps_Lows.xml" />
+  <Entry primary="TH" secondary="" dir="domestic/vocalLocal/Cantore/Temps_Highs" mapping="Temps_Highs.xml" />
+  <Entry primary="T" secondary="" dir="domestic/vocalLocal/Cantore/Temps_Specific" mapping="Temps_Specific.xml" />
+  <Entry primary="W" secondary="" dir="domestic/vocalLocal/Cantore/Wind_Misc" mapping="Wind_Misc.xml" />
+  <Entry primary="W" secondary="R" dir="domestic/vocalLocal/Cantore/Wind_At_Speed" mapping="Wind_At_Speed.xml" />
+  <Entry primary="W" secondary="IR" dir="domestic/vocalLocal/Cantore/Wind_Increasing" mapping="Wind_Increasing.xml" />
+  <Entry primary="W" secondary="DR" dir="domestic/vocalLocal/Cantore/Wind_Diminishing" mapping="Wind_Diminishing.xml" />
+  <Entry primary="W" secondary="S" dir="domestic/vocalLocal/Cantore/Wind_Shifting" mapping="Wind_Shifting.xml" />
+  <Entry primary="W" secondary="B" dir="domestic/vocalLocal/Cantore/Wind_Becoming" mapping="Wind_Becoming.xml" />
+  <Entry primary="W" secondary="AIR" dir="domestic/vocalLocal/Cantore/Wind_And_Increasing" mapping="Wind_And_Increasing.xml" />
+  <Entry primary="W" secondary="ADR" dir="domestic/vocalLocal/Cantore/Wind_And_Diminishing" mapping="Wind_And_Diminishing.xml" />
+  <Entry primary="W-R" secondary="" dir="domestic/vocalLocal/Cantore/Wind_Dir2" mapping="Wind_Dir2.xml" />
+  <Entry primary="W-R-IR" secondary="" dir="domestic/vocalLocal/Cantore/Wind_Dir1" mapping="Wind_Dir1.xml" />
+  <Entry primary="W-R-DR" secondary="" dir="domestic/vocalLocal/Cantore/Wind_Dir1" mapping="Wind_Dir1.xml" />
+  <Entry primary="W-S-R" secondary="" dir="domestic/vocalLocal/Cantore/Wind_Dir1" mapping="Wind_Dir1.xml" />
+  <Entry primary="W-B-R" secondary="" dir="domestic/vocalLocal/Cantore/Wind_Dir1" mapping="Wind_Dir1.xml" />
+  <Entry primary="W-R-S-AIR" secondary="" dir="domestic/vocalLocal/Cantore/Wind_Dir2" mapping="Wind_Dir2.xml" />
+  <Entry primary="W-R-S-ADR" secondary="" dir="domestic/vocalLocal/Cantore/Wind_Dir2" mapping="Wind_Dir2.xml" />
+  <Entry primary="W-R-B-AIR" secondary="" dir="domestic/vocalLocal/Cantore/Wind_Dir2" mapping="Wind_Dir2.xml" />
+  <Entry primary="W-R-B-ADR" secondary="" dir="domestic/vocalLocal/Cantore/Wind_Dir2" mapping="Wind_Dir2.xml" />
+  <Entry primary="OT" secondary="" dir="domestic/vocalLocal/Cantore/Temps_Specific" mapping="Temps_Specific.xml" />
+  <Entry primary="OX" secondary="" dir="domestic/vocalLocal/Cantore/Wx_Phrases_Curr_Cond" mapping="Wx_Phrases_Curr_Cond.xml" />
+  <Entry primary="HE" secondary="" dir="domestic/vocalLocal/Cantore/Headline_Event_Phrases" mapping="Headline_Event_Phrases.xml" />
+</AudioClipConfig>

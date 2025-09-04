@@ -1,0 +1,16 @@
+﻿<AudioMappingTable>
+  <Entry key="01" value="Below_5.wav" />
+  <Entry key="02" value="5_10.wav" />
+  <Entry key="03" value="10_15.wav" />
+  <Entry key="04" value="10_20.wav" />
+  <Entry key="05" value="15_25.wav" />
+  <Entry key="06" value="20_30.wav" />
+  <Entry key="07" value="25_35.wav" />
+  <Entry key="08" value="25_40.wav" />
+  <Entry key="09" value="35_50.wav" />
+  <Entry key="10" value="40_60.wav" />
+  <Entry key="11" value="50_70.wav" />
+  <Entry key="12" value="60_80.wav" />
+  <Entry key="13" value="70_90.wav" />
+  <Entry key="14" value="80_100.wav" />
+</AudioMappingTable>
