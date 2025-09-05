@@ -1,0 +1,24 @@
+{
+  "name": "vocallocal-parser-demo",
+  "version": "1.0.0",
+  "description": "A reverse engineered VocalLocal demo parser",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7exe/VocalLocal-Parser-Demo.git"
+  },
+  "author": "Static (7exe)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/7exe/VocalLocal-Parser-Demo/issues"
+  },
+  "homepage": "https://github.com/7exe/VocalLocal-Parser-Demo#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "xml2js": "^0.6.2"
+  }
+}
